@@ -7,6 +7,8 @@ When I moved into a flat in the past, it had a ducted MVHR system which was miss
 
 The shape of this grille is defined using OpenSCAD, an interesting declarative programming language for 3D modelling. For most things (especially this kind of simple repetitive collection of shapes with real world dimensions), I find it much more convenient and quick than using a GUI-based modeller.
 
+You can view it in 3D at [Thingiverse](https://www.thingiverse.com/thing:4634258).
+
 
 There's Always (At Least) One Mistake
 -------------------------------------
